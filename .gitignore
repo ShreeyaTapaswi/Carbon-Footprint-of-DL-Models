@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+emissions.csv
+*.pt
+*.pth
+.venv/
+.ipynb_checkpoints/
+src/score.py
+PRIVATE*/
